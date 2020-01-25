@@ -1,7 +1,3 @@
-import re
-
-
-
 
 D={}
 for line in open("aws_pseudohap.fa"):
